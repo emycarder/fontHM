@@ -1,0 +1,89 @@
+
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,400i&display=swap');
+body{
+font-family: Lato, sans-serif;
+font-weight: 300;
+color: #7D7D7D;
+font-size: 19px;
+}
+
+/* Layout */
+p{
+	letter-spacing: 0.3px;
+	line-height: 1.79;
+}
+
+
+
+.ba-container{
+	
+	box-shadow: 1px 1px 120px 1px rgba(15, 11, 11, 0.1);
+	max-width: 1200px;
+	
+	padding: 100px 90px;
+	
+
+}
+
+.ba-main{
+	
+	justify-content: center;
+margin: 70px;
+}
+
+.p-2{
+	margin-top: 35px;
+}
+
+.p-3{
+	margin-top: 35px;
+}
+
+.ba-post-subtitle:first-letter {
+	color: #171717;
+	float: left;
+	font-size: 110px;
+	font-family: "Playfair Display", serif;
+	font-weight: 400;
+	padding: 9px 27px 26px 0;
+	line-height: 0.6;
+}
+
+h1{
+	font-family: playfair display, serif;
+font-size: 41px;
+font-weight: normal; 
+color: black;
+letter-spacing: 0.4px;
+margin-bottom: 0;
+}
+
+.ba-post-subtitle{
+
+}
+
+.ba-post{
+font-size: 26px;
+font-weight: 400;
+font-style: italic;
+color: #7D7D7D;
+letter-spacing: 0.4px;
+margin-bottom: 54px;
+}
+
+.ba-hollow{
+	font-size: 19px;
+	font-weight: 400;
+	color: #EAA258;
+	border: 2px solid #EAA258;
+	padding: 20px 74px;
+	letter-spacing: 2.7px;
+}
+
+a{
+text-decoration: none;;
+}
+
+
+
